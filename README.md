@@ -18,14 +18,12 @@ I specialize in creating responsive user interfaces, robust backend APIs, busine
 - ⚡ **Full-Stack Development** — Next.js, React, Node.js, Express
 - 🧩 **CMS Development** — WordPress, Headless CMS
 - 📊 **SaaS & Dashboards** — Business applications and admin panels
-- 📱 **Mobile Development** — React Native and Flutter
+- 📱 **Mobile Development** — React Native
 - 🤖 **AI Integrations** — AI-powered features and APIs
 - 🎨 **Frontend Experiences** — Tailwind CSS, GSAP, Framer Motion
 
 ---
 
-
----
 
 ## 🧰 Tech Stack
 
@@ -37,13 +35,11 @@ I specialize in creating responsive user interfaces, robust backend APIs, busine
 
 **CMS:** WordPress · Headless CMS
 
-**Mobile:** React Native · Flutter
+**Mobile:** React Native
 
 **Tools:** Git · GitHub · Vercel · AWS · Firebase · Docker
 
 **UI & Animation:** GSAP · Framer Motion · shadcn/ui
-
----
 
 
 ---
