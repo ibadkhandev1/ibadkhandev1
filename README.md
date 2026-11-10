@@ -49,6 +49,8 @@ I specialize in creating responsive user interfaces, robust backend APIs, busine
 - 🌐 **Portfolio:** https://ibadkhandev.vercel.app/
 - 💼 **Upwork:** https://www.upwork.com/freelancers/~01ac9dfd5b35dc7b35
 - 💻 **GitHub:** https://github.com/ibadkhandev1
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/ibadkhandev
+- 📧 **Email:** [ibadkhan.dev@gmail.com](mailto:ibadkhan.dev@gmail.com)
 
 ---
 
