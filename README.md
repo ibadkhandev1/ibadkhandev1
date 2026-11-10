@@ -45,11 +45,6 @@ I specialize in creating responsive user interfaces, robust backend APIs, busine
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibadkhandev1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibadkhandev1&layout=compact&theme=tokyonight)
 
 ---
 
